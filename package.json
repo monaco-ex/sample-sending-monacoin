@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/monaco-ex/sample-sending-monacoin#readme",
   "dependencies": {
-    "@monaco-ex/coininfo": "^1.0.1-monacoex-1",
+    "coininfo": "^2.0.0",
     "bitcoinjs-lib": "^3.1.1",
     "coinselect": "^3.1.11",
     "electrum-client": "0.0.4",

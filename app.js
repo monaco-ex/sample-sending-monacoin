@@ -1,7 +1,7 @@
 'use strict';
 
 const bitcoin = require('bitcoinjs-lib');
-const coininfo = require('@monaco-ex/coininfo');
+const coininfo = require('coininfo');
 
 const coinselect = require('coinselect');
 const feeRate = 1000;
